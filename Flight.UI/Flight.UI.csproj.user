@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Initialize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PageAddFlight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PageBuyFlight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PageListFlights.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PageLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PageModifyFlight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PageRegister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PageRemoveFlight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PageReserveFlight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PageSearchFlight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

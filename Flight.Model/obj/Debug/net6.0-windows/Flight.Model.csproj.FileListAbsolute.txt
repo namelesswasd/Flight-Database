@@ -1,0 +1,17 @@
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.FormHost.resources
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\bin\Debug\net6.0-windows\Flight.Model.exe
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\bin\Debug\net6.0-windows\Flight.Model.deps.json
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\bin\Debug\net6.0-windows\Flight.Model.runtimeconfig.json
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\bin\Debug\net6.0-windows\Flight.Model.dll
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\bin\Debug\net6.0-windows\Flight.Model.pdb
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.dll
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\refint\Flight.Model.dll
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.pdb
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\Flight.Model.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.Model\obj\Debug\net6.0-windows\ref\Flight.Model.dll

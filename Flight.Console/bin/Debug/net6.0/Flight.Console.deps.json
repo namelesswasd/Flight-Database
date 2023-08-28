@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Flight.Console/1.0.0": {
+        "dependencies": {
+          "Flight.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "Flight.Console.dll": {}
+        }
+      },
+      "Flight.DataAccess/1.0.0": {
+        "dependencies": {
+          "Flight.Model": "1.0.0"
+        },
+        "runtime": {
+          "Flight.DataAccess.dll": {}
+        }
+      },
+      "Flight.Model/1.0.0": {
+        "runtime": {
+          "Flight.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flight.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flight.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flight.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\bin\Debug\net6.0\Flight.DataAccess.deps.json
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\bin\Debug\net6.0\Flight.DataAccess.dll
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\bin\Debug\net6.0\Flight.DataAccess.pdb
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\Flight.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\Flight.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\Flight.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\Flight.DataAccess.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\Flight.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\Flight.DataAccess.dll
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\refint\Flight.DataAccess.dll
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\Flight.DataAccess.pdb
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\ref\Flight.DataAccess.dll
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\bin\Debug\net6.0\Flight.Model.dll
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\bin\Debug\net6.0\Flight.Model.pdb
+C:\Users\Vlad\Desktop\all\!facultate\anul 2\semestrul2\MAP\P2\Flight.DataAccess\obj\Debug\net6.0\Flight.DataAccess.csproj.CopyComplete
